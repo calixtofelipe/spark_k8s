@@ -24,7 +24,7 @@ sudo -E kubefwd svc
 7 - install spark
 sudo tar xfz spark-3.0.1-bin-hadoop3.2.tgz -C /usr/local/
 
-8 - link make more easy to access spark
+8 - link does easier to access spark
 sudo ln -sT spark-3.0.1-bin-hadoop3.2 spark
 
 9 - create enviroment variables bashrc
